@@ -1,0 +1,1481 @@
+[
+  {
+    "id": 1,
+    "name": "Bank BTN",
+    "code": "200",
+    "contact": {
+      "title": "Call Center",
+      "label": "1500286"
+    },
+    "link": "https://www.btn.co.id/",
+    "logo": {
+      "filename": "3aiMRhqVp2b0hghgqrwp.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/3aiMRhqVp2b0hghgqrwp.png"
+    },
+    "group_id": 1,
+    "category_id": 8
+  },
+  {
+    "id": 2,
+    "name": "Bank Mandiri",
+    "code": "008",
+    "contact": {
+      "title": "Call Center",
+      "label": "14000"
+    },
+    "link": "https://bankmandiri.co.id/",
+    "logo": {
+      "filename": "eYwf7VhOvcNsYocd9c7l.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/eYwf7VhOvcNsYocd9c7l.png"
+    },
+    "group_id": 1,
+    "category_id": 8
+  },
+  {
+    "id": 3,
+    "name": "Bank Negara Indonesia (BNI)",
+    "code": "009",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 046"
+    },
+    "link": "https://www.bni.co.id/",
+    "logo": {
+      "filename": "Z92M3AsOlCW1xZGIpTxd.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/Z92M3AsOlCW1xZGIpTxd.png"
+    },
+    "group_id": 1,
+    "category_id": 8
+  },
+  {
+    "id": 9,
+    "name": "Bank Rakyat Indonesia (BRI)",
+    "code": "002",
+    "contact": {
+      "title": "Call Center",
+      "label": "8080"
+    },
+    "link": "https://bri.co.id/",
+    "logo": {
+      "filename": "Rv1f3DZu06bwWhnt9UGX.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/Rv1f3DZu06bwWhnt9UGX.png"
+    },
+    "group_id": 1,
+    "category_id": 8
+  },
+  {
+    "id": 10,
+    "name": "Bank BJB",
+    "code": "110",
+    "contact": {
+      "title": "Call Center",
+      "label": "14049"
+    },
+    "link": "https://www.bankbjb.co.id/",
+    "logo": {
+      "filename": "ZAhnSCAbI9YHvVCASc9R.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/ZAhnSCAbI9YHvVCASc9R.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 12,
+    "name": "Bank BPD D.I.Y",
+    "code": "112",
+    "contact": {
+      "title": "Call Center",
+      "label": "1500061"
+    },
+    "link": "https://www.bpddiy.co.id/",
+    "logo": {
+      "filename": "s5WaXZRfWlnGeRXKJ6lT.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/s5WaXZRfWlnGeRXKJ6lT.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 13,
+    "name": "Bank Jateng",
+    "code": "113",
+    "contact": {
+      "title": "Call Center",
+      "label": "14066"
+    },
+    "link": "https://www.bankjateng.co.id/",
+    "logo": {
+      "filename": "yJiovvrUsFEQfjqUgiin.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/yJiovvrUsFEQfjqUgiin.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 14,
+    "name": "Bank Jatim",
+    "code": "114",
+    "contact": {
+      "title": "Call Center",
+      "label": "14044"
+    },
+    "link": "https://www.bankjatim.co.id/",
+    "logo": {
+      "filename": "Pr3cGvhJK8mr9Y5tR2eF.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/Pr3cGvhJK8mr9Y5tR2eF.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 15,
+    "name": "Bank Jambi",
+    "code": "115",
+    "contact": {
+      "title": "Call Center",
+      "label": "021-22057556"
+    },
+    "link": "https://bankjambi.co.id/",
+    "logo": {
+      "filename": "ECobMtwJjzmA9MyW9WZU.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/ECobMtwJjzmA9MyW9WZU.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 16,
+    "name": "Bank Aceh",
+    "code": "116",
+    "contact": {
+      "title": "Call Center",
+      "label": "1500845"
+    },
+    "link": "https://www.bankaceh.co.id/",
+    "logo": {
+      "filename": "9kCFly5aT8Ho1MhdFb5w.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/9kCFly5aT8Ho1MhdFb5w.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 17,
+    "name": "Bank Sumut",
+    "code": "117",
+    "contact": {
+      "title": "Call Center",
+      "label": "14002"
+    },
+    "link": "https://www.banksumut.co.id/",
+    "logo": {
+      "filename": "8f8nToChcslVpsNEqyiF.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/8f8nToChcslVpsNEqyiF.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 18,
+    "name": "Bank Sumbar",
+    "code": "118",
+    "contact": {
+      "title": "Call Center",
+      "label": "150234"
+    },
+    "link": "https://www.banknagari.co.id/",
+    "logo": {
+      "filename": "R74c1DaGi4mtzS0bkEr1.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/R74c1DaGi4mtzS0bkEr1.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 19,
+    "name": "Bank Kepri",
+    "code": "119",
+    "contact": {
+      "title": "Call Center",
+      "label": "0761-37050"
+    },
+    "link": "https://www.bankriaukepri.co.id/",
+    "logo": {
+      "filename": "7oIPIepgby3nekRdu3Ku.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/7oIPIepgby3nekRdu3Ku.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 20,
+    "name": "Bank Sumsel and Babel",
+    "code": "120",
+    "contact": {
+      "title": "Call Center",
+      "label": "1500711"
+    },
+    "link": "https://www.banksumselbabel.com/",
+    "logo": {
+      "filename": "kxexytqwJCr0YY5Excof.png",
+      "mobile_filename": null,
+      "original_src": "banks/January2023/kxexytqwJCr0YY5Excof.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 21,
+    "name": "Altopay",
+    "code": "700",
+    "contact": {
+      "title": "Call Center",
+      "label": "14017"
+    },
+    "link": "altopay.co.id",
+    "logo": {
+      "filename": "YLT01kWWXkCKbxp7XpPZ.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/YLT01kWWXkCKbxp7XpPZ.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 22,
+    "name": "Bank Artha Graha",
+    "code": "037",
+    "contact": {
+      "title": "Call Center",
+      "label": "0 800 191 8880"
+    },
+    "link": "https://www.arthagraha.com/",
+    "logo": {
+      "filename": "1ArgbsXiuo5w2TSm0m0W.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/1ArgbsXiuo5w2TSm0m0W.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 23,
+    "name": "Bank BCA Syariah",
+    "code": "536",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 888"
+    },
+    "link": "https://www.bcasyariah.co.id/",
+    "logo": {
+      "filename": "DT7vE3KmHLfOwWEuofhz.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/DT7vE3KmHLfOwWEuofhz.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 24,
+    "name": "Bank Central Asia",
+    "code": "014",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 888"
+    },
+    "link": "https://www.bca.co.id/",
+    "logo": {
+      "filename": "8ADmCisaW72G2HLXz3gD.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/8ADmCisaW72G2HLXz3gD.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 25,
+    "name": "Bank Chinatrust Indonesia",
+    "code": "949",
+    "contact": {
+      "title": "Call Center",
+      "label": "0807 1 221111"
+    },
+    "link": "https://www.ctbcbank.co.id/",
+    "logo": {
+      "filename": "Schd6iqhqtowKRNUU8W6.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/Schd6iqhqtowKRNUU8W6.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 26,
+    "name": "Bank Jasa Jakarta",
+    "code": "472",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 690 2611"
+    },
+    "link": "https://www.bjj.co.id/",
+    "logo": {
+      "filename": "40VZb7nrS8qFWwmpRBSc.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/40VZb7nrS8qFWwmpRBSc.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 27,
+    "name": "Bank Maspion",
+    "code": "157",
+    "contact": {
+      "title": "Call Center",
+      "label": "031 5316999"
+    },
+    "link": "https://www.bankmaspion.co.id/",
+    "logo": {
+      "filename": "9QuXXJe6XtJjJ2YPPYuT.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/9QuXXJe6XtJjJ2YPPYuT.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 28,
+    "name": "Bank Royal",
+    "code": "501",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 62864472"
+    },
+    "link": "https://www.royalbank.co.id/",
+    "logo": {
+      "filename": "AgzEDSddu646vBb8YPUX.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/AgzEDSddu646vBb8YPUX.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 29,
+    "name": "Bank SBI Indonesia (Indomonex)",
+    "code": "498",
+    "contact": {
+      "title": "Call Center",
+      "label": "0 800 1724 636"
+    },
+    "link": "https://www.sbiindo.com/",
+    "logo": {
+      "filename": "j85z6vEfWERJX3oQzSDw.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/j85z6vEfWERJX3oQzSDw.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 30,
+    "name": "Bank Victoria International",
+    "code": "566",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 977"
+    },
+    "link": "https://www.victoriabank.co.id/",
+    "logo": {
+      "filename": "IkYznb0BtITAUbkCxh6O.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/IkYznb0BtITAUbkCxh6O.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 31,
+    "name": "Bank CNB",
+    "code": "559",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 800 4923 221"
+    },
+    "link": "#",
+    "logo": {
+      "filename": "h7pOe6nFVnIWZ9B1B8Ul.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/h7pOe6nFVnIWZ9B1B8Ul.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 32,
+    "name": "Bank Harda International",
+    "code": "567",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 3841178"
+    },
+    "link": "#",
+    "logo": {
+      "filename": "cL7F66ymYw16HKB2rLyf.png",
+      "mobile_filename": null,
+      "original_src": "banks/February2023/cL7F66ymYw16HKB2rLyf.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 33,
+    "name": "Bank of Tokyo-Mutsubishi UFJ",
+    "code": "042",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 570 7809"
+    },
+    "link": "#",
+    "logo": {
+      "filename": null,
+      "mobile_filename": null,
+      "original_src": "banks/February2023/MRD8uIBM9zhFIoOlDn6U.png"
+    },
+    "group_id": 2,
+    "category_id": null
+  },
+  {
+    "id": 38,
+    "name": "PT Allo Bank Indonesia Tbk",
+    "code": "567",
+    "contact": {
+      "title": "Call Center",
+      "label": "080 4110 4110"
+    },
+    "link": "https://www.allobank.com/",
+    "logo": {
+      "filename": "5TfRoz8xF5EjtjtZGJ94.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/5TfRoz8xF5EjtjtZGJ94.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 39,
+    "name": "PT Bank Bumi Arta Tbk",
+    "code": "076",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 2300 455"
+    },
+    "link": "https://www.bankbba.co.id/bumiarta/",
+    "logo": {
+      "filename": "FDtEqOoC6bUSWiRUzaCO.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/FDtEqOoC6bUSWiRUzaCO.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 40,
+    "name": "PT Bank CIMB Niaga Tbk",
+    "code": "022",
+    "contact": {
+      "title": "Call Center",
+      "label": "14041"
+    },
+    "link": "https://www.cimbniaga.co.id/",
+    "logo": {
+      "filename": "Schxhdm2bLb68lroBLDW.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/Schxhdm2bLb68lroBLDW.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 41,
+    "name": "PT Bank Danamon Indonesia Tbk.",
+    "code": "011",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 090"
+    },
+    "link": "https://www.danamon.co.id/",
+    "logo": {
+      "filename": "snau6aXnBLSKPLB4IO3v.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/snau6aXnBLSKPLB4IO3v.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 42,
+    "name": "PT Bank Ganesha Tbk",
+    "code": "161",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 169"
+    },
+    "link": "https://www.bankganesha.co.id",
+    "logo": {
+      "filename": "euOJUZZLzxr1dX0U42TL.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/euOJUZZLzxr1dX0U42TL.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 43,
+    "name": "PT Bank ICBC Indonesia",
+    "code": "164",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 198"
+    },
+    "link": "www.icbc.co.id",
+    "logo": {
+      "filename": "jjfwX8yBbx36QV2L1e9k.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/jjfwX8yBbx36QV2L1e9k.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 44,
+    "name": "PT Bank Ina Perdana Tbk",
+    "code": "513",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 3483 1766"
+    },
+    "link": "https://www.bankina.co.id/",
+    "logo": {
+      "filename": "xf5ozek7tpT98Q3fY7ZF.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/xf5ozek7tpT98Q3fY7ZF.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 45,
+    "name": "PT Bank Index Selindo",
+    "code": "555",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 670"
+    },
+    "link": "https://bankindex.co.id/",
+    "logo": {
+      "filename": "Qgz58pLQNtTItqvA5NVK.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/Qgz58pLQNtTItqvA5NVK.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 46,
+    "name": "PT Bank Jago Tbk",
+    "code": "542",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 746"
+    },
+    "link": "https://jago.com/",
+    "logo": {
+      "filename": "xSfYMRUSLXQfp7pxUkny.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/xSfYMRUSLXQfp7pxUkny.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 47,
+    "name": "PT Bank Jtrust Indonesia Tbk.",
+    "code": "095",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 615"
+    },
+    "link": "https://www.jtrustbank.co.id/",
+    "logo": {
+      "filename": "uLZND9g7s0c30kMTtMn7.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/uLZND9g7s0c30kMTtMn7.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 48,
+    "name": "PT Bank KB Bukopin Tbk.",
+    "code": "441",
+    "contact": {
+      "title": "Call Center",
+      "label": "14005"
+    },
+    "link": "https://www.bukopin.co.id/",
+    "logo": {
+      "filename": "dNXoAZjNJapsRT9f2Jum.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/dNXoAZjNJapsRT9f2Jum.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 49,
+    "name": "PT Bank KEB Hana Indonesia",
+    "code": "484",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 021"
+    },
+    "link": "http://www.hanabank.co.id/",
+    "logo": {
+      "filename": "0D3WknIhNHNXqE496dqW.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/0D3WknIhNHNXqE496dqW.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 50,
+    "name": "PT Bank Mandiri Taspen Pos",
+    "code": "564",
+    "contact": {
+      "title": "Call Center",
+      "label": "14024"
+    },
+    "link": "https://www.bankmantap.co.id/",
+    "logo": {
+      "filename": "Iy01D2uktfCM2lprGH5U.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/Iy01D2uktfCM2lprGH5U.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 51,
+    "name": "PT Bank Maybank Indonesia Tbk.",
+    "code": "016",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 611"
+    },
+    "link": "https://www.maybank.co.id/",
+    "logo": {
+      "filename": "vTTJg04ydWaXUL1shzAd.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/vTTJg04ydWaXUL1shzAd.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 52,
+    "name": "PT Bank Mayora",
+    "code": "553",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 5696 6954"
+    },
+    "link": "https://www.bankmayora.com/",
+    "logo": {
+      "filename": "XzQKSMcjJ8ekU4nbEzG8.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/XzQKSMcjJ8ekU4nbEzG8.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 53,
+    "name": "PT Bank Mega Tbk.",
+    "code": "426",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 010"
+    },
+    "link": "https://www.bankmega.com/",
+    "logo": {
+      "filename": "ccqDyIHzNu8H7SKn4Dsw.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/ccqDyIHzNu8H7SKn4Dsw.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 54,
+    "name": "PT Bank Mestika Dharma Tbk.",
+    "code": "151",
+    "contact": {
+      "title": "Call Center",
+      "label": "14083"
+    },
+    "link": "https://www.bankmestika.co.id/",
+    "logo": {
+      "filename": "YCc7hx5GUOjrDZDlNkL5.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/YCc7hx5GUOjrDZDlNkL5.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 55,
+    "name": "PT Bank MNC Internasional Tbk",
+    "code": "485",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 188"
+    },
+    "link": "https://mncbank.co.id/id",
+    "logo": {
+      "filename": "UCyC7hWC4NKJDSmnLqLl.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/UCyC7hWC4NKJDSmnLqLl.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 56,
+    "name": "PT Bank Nationalnobu Tbk.",
+    "code": "503",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 278"
+    },
+    "link": "https://www.nobubank.com/",
+    "logo": {
+      "filename": "k4SI0jKcqQ1KT33gMyOa.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/k4SI0jKcqQ1KT33gMyOa.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 57,
+    "name": "PT Bank Neo Commerce Tbk.",
+    "code": "490",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 190"
+    },
+    "link": "https://www.bankneocommerce.co.id/",
+    "logo": {
+      "filename": "wF5PRwGk812e0lX8MmjG.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/wF5PRwGk812e0lX8MmjG.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 58,
+    "name": "PT Bank OCBC NISP Tbk.",
+    "code": "028",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 999"
+    },
+    "link": "https://www.ocbcnisp.com/",
+    "logo": {
+      "filename": "pvNT8mqZg5nqtCvqxLCb.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/pvNT8mqZg5nqtCvqxLCb.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 59,
+    "name": "PT Bank of India Indonesia Tbk.",
+    "code": "146",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 3500007"
+    },
+    "link": "https://www.boiindonesia.co.id/",
+    "logo": {
+      "filename": "dv5ItsLa5CUVEPodp3AO.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/dv5ItsLa5CUVEPodp3AO.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 60,
+    "name": "PT Bank Oke Indonesia Tbk.",
+    "code": "526",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 2312 633"
+    },
+    "link": "https://www.okbank.co.id/",
+    "logo": {
+      "filename": "vH0yXAwUKsVWR97KFYMw.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/vH0yXAwUKsVWR97KFYMw.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 61,
+    "name": "PT Bank Panin Tbk.",
+    "code": "019",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 678"
+    },
+    "link": "https://www.panin.co.id/id",
+    "logo": {
+      "filename": "XuNSaRZoKemO7UNUlKtE.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/XuNSaRZoKemO7UNUlKtE.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 63,
+    "name": "PT Bank QNB Indonesia Tbk.",
+    "code": "167",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 5155 155"
+    },
+    "link": "https://qnb.co.id/",
+    "logo": {
+      "filename": "VyEaZzl8w1CIaUpSHojN.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/VyEaZzl8w1CIaUpSHojN.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 64,
+    "name": "PT Bank Raya Tbk.",
+    "code": "494",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 494"
+    },
+    "link": "https://bankraya.co.id/",
+    "logo": {
+      "filename": "K3EGcLCJxIiRMO1hm2Z7.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/K3EGcLCJxIiRMO1hm2Z7.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 65,
+    "name": "PT Bank Sahabat Sampoerna",
+    "code": "523",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 035"
+    },
+    "link": "https://www.banksampoerna.com/",
+    "logo": {
+      "filename": "ipsb134gOgUjBvsai5la.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/ipsb134gOgUjBvsai5la.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 66,
+    "name": "PT Bank Seabank Indonesia",
+    "code": "535",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 130"
+    },
+    "link": "https://www.seabank.co.id/",
+    "logo": {
+      "filename": "xghireIMiYokLHKowYPz.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/xghireIMiYokLHKowYPz.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 67,
+    "name": "PT Bank Sinarmas Tbk.",
+    "code": "153",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 153"
+    },
+    "link": "https://www.banksinarmas.com/",
+    "logo": {
+      "filename": "JaufCFkWAjh4KIbFbBBZ.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/JaufCFkWAjh4KIbFbBBZ.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 68,
+    "name": "PT Bank Tabungan Pensiunan Nasional Tbk.",
+    "code": "213",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 300"
+    },
+    "link": "https://www.btpn.com",
+    "logo": {
+      "filename": "l3j7Z0QDvnllViAV7Jya.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/l3j7Z0QDvnllViAV7Jya.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 69,
+    "name": "PT Bank UOB Indonesia",
+    "code": "023",
+    "contact": {
+      "title": "Call Center",
+      "label": "14008"
+    },
+    "link": "https://www.uob.co.id",
+    "logo": {
+      "filename": "4zIzUjfSOeCMNmGXB6Q4.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/4zIzUjfSOeCMNmGXB6Q4.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 75,
+    "name": "PT Bank Aladin Syariah Tbk",
+    "code": "947",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 8550 0947"
+    },
+    "link": "https://aladinbank.id/",
+    "logo": {
+      "filename": "6C2M2modElRyLCx3JcYH.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/6C2M2modElRyLCx3JcYH.png"
+    },
+    "group_id": 1,
+    "category_id": 11
+  },
+  {
+    "id": 76,
+    "name": "PT Bank Bukopin Syariah",
+    "code": "521",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 666"
+    },
+    "link": "https://www.syariahbukopin.co.id/",
+    "logo": {
+      "filename": "IoKDWC7bZuwKUp0oT9Fl.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/IoKDWC7bZuwKUp0oT9Fl.png"
+    },
+    "group_id": 1,
+    "category_id": 11
+  },
+  {
+    "id": 77,
+    "name": "PT Bank Jabar Banten Syariah",
+    "code": "425",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 727"
+    },
+    "link": "https://www.bjbsyariah.co.id/",
+    "logo": {
+      "filename": "FT1psCM8wHYLVIqkMu81.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/FT1psCM8wHYLVIqkMu81.png"
+    },
+    "group_id": 1,
+    "category_id": 11
+  },
+  {
+    "id": 78,
+    "name": "PT Bank Muamalat Indonesia Tbk",
+    "code": "147",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 016"
+    },
+    "link": "https://www.bankmuamalat.co.id/",
+    "logo": {
+      "filename": "ITUIAMlIZpaOMe45Npw1.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/ITUIAMlIZpaOMe45Npw1.png"
+    },
+    "group_id": 1,
+    "category_id": 11
+  },
+  {
+    "id": 79,
+    "name": "PT Bank Panin Dubai Syariah Tbk",
+    "code": "517",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 6313 700"
+    },
+    "link": "https://www.paninbanksyariah.co.id/",
+    "logo": {
+      "filename": "fqKwdIU9BYVVmcVYbprz.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/fqKwdIU9BYVVmcVYbprz.png"
+    },
+    "group_id": 1,
+    "category_id": 11
+  },
+  {
+    "id": 80,
+    "name": "PT Bank Syariah Indonesia Tbk",
+    "code": "451",
+    "contact": {
+      "title": "Call Center",
+      "label": "14040"
+    },
+    "link": "https://www.mandirisyariah.co.id/",
+    "logo": {
+      "filename": "rT8b5KIQqDK16CQE8ubk.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/rT8b5KIQqDK16CQE8ubk.png"
+    },
+    "group_id": 1,
+    "category_id": 11
+  },
+  {
+    "id": 81,
+    "name": "PT Bank Syariah Mega Indonesia",
+    "code": "506",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 2985 2222"
+    },
+    "link": "https://www.megasyariah.co.id/",
+    "logo": {
+      "filename": "Rre0zKAVyMWawNE20fPg.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/Rre0zKAVyMWawNE20fPg.png"
+    },
+    "group_id": 1,
+    "category_id": 11
+  },
+  {
+    "id": 82,
+    "name": "PT Bank Tabungan Pensiunan Nasional Syariah",
+    "code": "547",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 1500 300"
+    },
+    "link": "https://www.btpnsyariah.com/",
+    "logo": {
+      "filename": "zrFNDLAMgCNmE33Ub1oN.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/zrFNDLAMgCNmE33Ub1oN.png"
+    },
+    "group_id": 1,
+    "category_id": 11
+  },
+  {
+    "id": 83,
+    "name": "Citibank NA",
+    "code": "031",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 252 9999"
+    },
+    "link": "https://www.citibank.co.id/",
+    "logo": {
+      "filename": "SRCBoxYRQzhrddaOGuci.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/SRCBoxYRQzhrddaOGuci.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 84,
+    "name": "PT Bank ANZ Indonesia",
+    "code": "061",
+    "contact": {
+      "title": "Call Center",
+      "label": "0804 1000 269"
+    },
+    "link": "https://institutional.anz.com/markets/indonesia/id",
+    "logo": {
+      "filename": "bP1RDBzo8dDFWoKpZEY5.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/bP1RDBzo8dDFWoKpZEY5.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 85,
+    "name": "PT Bank Capital Indonesia Tbk",
+    "code": "054",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 2793 8989"
+    },
+    "link": "https://www.bankcapital.co.id/id",
+    "logo": {
+      "filename": "d1zJ0U6esEQdytyYBKmq.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/d1zJ0U6esEQdytyYBKmq.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 86,
+    "name": "PT Bank Commonwealth",
+    "code": "950",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 030"
+    },
+    "link": "https://www.commbank.co.id/",
+    "logo": {
+      "filename": "0OgJ2JeoqYCXdDjzeDY0.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/0OgJ2JeoqYCXdDjzeDY0.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 87,
+    "name": "PT Bank DBS Indonesia",
+    "code": "046",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 327"
+    },
+    "link": "https://www.dbs.id/",
+    "logo": {
+      "filename": "hKLnoX9whJdRGpEpnV6o.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/hKLnoX9whJdRGpEpnV6o.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 88,
+    "name": "PT Bank HSBC Indonesia",
+    "code": "087",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 700"
+    },
+    "link": "https://www.hsbc.co.id/",
+    "logo": {
+      "filename": "62FoV2xakHG2qdbr8TR9.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/62FoV2xakHG2qdbr8TR9.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 89,
+    "name": "PT Bank IBK Indonesia, Tbk.",
+    "code": "945",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 978"
+    },
+    "link": "#",
+    "logo": {
+      "filename": "iNEkMIdBqFhs118bbjnq.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/iNEkMIdBqFhs118bbjnq.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 90,
+    "name": "PT Bank of China Indonesia",
+    "code": "069",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 5200 986"
+    },
+    "link": "https://www.bankofchina.co.id",
+    "logo": {
+      "filename": "EM8b1P81gQSqKyXwpa22.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/EM8b1P81gQSqKyXwpa22.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 91,
+    "name": "PT Bank Shinhan Indonesia",
+    "code": "152",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 881"
+    },
+    "link": "https://www.shinhan.co.id/",
+    "logo": {
+      "filename": "NIMLtBwirXsg6tWP0INg.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/NIMLtBwirXsg6tWP0INg.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 92,
+    "name": "PT Bank Woori Saudara Indonesia",
+    "code": "212",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 012"
+    },
+    "link": "https://www.bankwoorisaudara.com/",
+    "logo": {
+      "filename": "fnacMYyXTt6uPvB2hHTt.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/fnacMYyXTt6uPvB2hHTt.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 93,
+    "name": "PT Standard Chartered Bank Indonesia",
+    "code": "050",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 5799 9988"
+    },
+    "link": "https://www.sc.com/",
+    "logo": {
+      "filename": "ZTw6i5TTFb9aCo2RwEpr.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/ZTw6i5TTFb9aCo2RwEpr.png"
+    },
+    "group_id": 1,
+    "category_id": 12
+  },
+  {
+    "id": 94,
+    "name": " PT BPR Eka Bumi Artha",
+    "code": "867",
+    "contact": {
+      "title": "Call Center",
+      "label": "-"
+    },
+    "link": "#",
+    "logo": {
+      "filename": "T3wBGKnCJ3IVYdAZvxXa.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/T3wBGKnCJ3IVYdAZvxXa.png"
+    },
+    "group_id": 1,
+    "category_id": 13
+  },
+  {
+    "id": 95,
+    "name": "PT BPR Danagung Abadi",
+    "code": "028",
+    "contact": {
+      "title": "Call Center",
+      "label": "-"
+    },
+    "link": "#",
+    "logo": {
+      "filename": "2Fmih7aLqQjQs7LlBIiy.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/2Fmih7aLqQjQs7LlBIiy.png"
+    },
+    "group_id": 1,
+    "category_id": 13
+  },
+  {
+    "id": 96,
+    "name": "PT BPR Danagung Bakti",
+    "code": "028",
+    "contact": {
+      "title": "Call Center",
+      "label": "-"
+    },
+    "link": "#",
+    "logo": {
+      "filename": "O3GI60msfYHCqmE2PsW2.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/O3GI60msfYHCqmE2PsW2.png"
+    },
+    "group_id": 1,
+    "category_id": 13
+  },
+  {
+    "id": 97,
+    "name": "PT BPR Danagung Ramulti",
+    "code": "028",
+    "contact": {
+      "title": "Call Center",
+      "label": "-"
+    },
+    "link": "#",
+    "logo": {
+      "filename": "BfaZOFQA0zgtF7moQZR3.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/BfaZOFQA0zgtF7moQZR3.png"
+    },
+    "group_id": 1,
+    "category_id": 13
+  },
+  {
+    "id": 98,
+    "name": "PT BPR Karyajatnika Sadaya",
+    "code": "688",
+    "contact": {
+      "title": "Call Center",
+      "label": "022 4556 600"
+    },
+    "link": "https://bprks.co.id/",
+    "logo": {
+      "filename": "EC9SLrPIiVjQFKynEnAS.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/EC9SLrPIiVjQFKynEnAS.png"
+    },
+    "group_id": 1,
+    "category_id": 13
+  },
+  {
+    "id": 99,
+    "name": "PT BPR Supra Artapersada",
+    "code": "600",
+    "contact": {
+      "title": "Call Center",
+      "label": "0266 237 070"
+    },
+    "link": "http://www.bprsupra.co.id/",
+    "logo": {
+      "filename": "PA2ec8mRlSazUweMG4g2.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/PA2ec8mRlSazUweMG4g2.png"
+    },
+    "group_id": 1,
+    "category_id": 13
+  },
+  {
+    "id": 100,
+    "name": "PT Fintek Karya Nusantara",
+    "code": "911",
+    "contact": {
+      "title": "Call Center",
+      "label": "118"
+    },
+    "link": "#",
+    "logo": {
+      "filename": "zXTD10w5CrROr8RDMZoT.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/zXTD10w5CrROr8RDMZoT.png"
+    },
+    "group_id": 1,
+    "category_id": 14
+  },
+  {
+    "id": 101,
+    "name": "PT Indosat Tbk",
+    "code": "789",
+    "contact": {
+      "title": "Call Center",
+      "label": "021 3000 3000"
+    },
+    "link": "#",
+    "logo": {
+      "filename": "pZW5fpD62yKl11Nh68Ih.png",
+      "mobile_filename": null,
+      "original_src": "banks/April2023/pZW5fpD62yKl11Nh68Ih.png"
+    },
+    "group_id": 1,
+    "category_id": 14
+  },
+  {
+    "id": 62,
+    "name": "PT Bank Permata Tbk.",
+    "code": "013",
+    "contact": {
+      "title": "Call Center",
+      "label": "1 500 111"
+    },
+    "link": "https://www.permatabank.com/",
+    "logo": {
+      "filename": "Wk8hIwjvy1oQxKgTEMlj.png",
+      "mobile_filename": null,
+      "original_src": "banks/March2025/Wk8hIwjvy1oQxKgTEMlj.png"
+    },
+    "group_id": 1,
+    "category_id": 10
+  },
+  {
+    "id": 11,
+    "name": "Bank Jakarta",
+    "code": "111",
+    "contact": {
+      "title": "Call Center",
+      "label": "1500-351"
+    },
+    "link": "https://bankdki.co.id/",
+    "logo": {
+      "filename": "0C5xPLImmT8J2lKPLf0N.png",
+      "mobile_filename": null,
+      "original_src": "banks/July2025/0C5xPLImmT8J2lKPLf0N.png"
+    },
+    "group_id": 1,
+    "category_id": 9
+  }
+]

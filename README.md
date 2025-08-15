@@ -19,9 +19,9 @@ Sebagai alternatif, data juga disimpan dalam format sql dengan format berikut
 ```mermaid
 erDiagram
    banks {
-        string name
-        string code
-        mediumtext logo
+        string name "Nama Bank"
+        string code "Kode transfer Bank"
+        mediumtext logo "base64 decode logo Bank"
     }
 ```
 

@@ -13,4 +13,16 @@ Repository ini berisi daftar bank yang terdaftar di Bank Indonesia beserta infor
 ## Cara Menggunakan
 Data disimpan dalam format JSON. Anda dapat mengunduh file `banks.json` dan menggunakannya dalam aplikasi Anda.
 
+### SQL Format
+Sebagai alternatif, data juga disimpan dalam format sql dengan format berikut
+
+```mermaid
+erDiagram
+   banks {
+        string name
+        string code
+        mediumtext logo
+    }
+```
+
 File logo bank disimpan dalam folder `logos/` dan juga `images`. Anda dapat mengakses logo bank dengan menggunakan nama file yang sesuai dengan kode bank.
